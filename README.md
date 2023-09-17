@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
 - [Code](#code)
-- [Report](#built-with)
 - [Built With](#built-with)
 
 ## Overview
