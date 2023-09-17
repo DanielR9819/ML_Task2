@@ -4,6 +4,7 @@
 
 - [Overview](#overview)
 - [Code](#code)
+- [Report](#report)
 - [Built With](#built-with)
 
 ## Overview
@@ -15,6 +16,10 @@ This portfolio demonstrates my understanding the car neural network and my exper
 
 
 1. [NewCar](newcar.py)
+
+## Report
+
+1. [Scientific Report](Report.pdf)
    
 
 
